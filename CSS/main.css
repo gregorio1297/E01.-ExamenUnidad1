@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+
+.imgfond{
+    background-image: url(../IMGS/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 20%;
+}
+
+.textoindex{
+    margin-top: 17.5%;
+    margin-left: -7.7%;
+    font-size: 150%;
+}
+
+.textoindex>p{
+    padding-top: 2%;
+    margin-left: 4%;
+    font-size: 100%;
+}

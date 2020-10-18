@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.encabeza{
+    width: 100%;
+}
+
+.fenchat{
+    margin-left: 50%;
+    padding-left: 10%;
+    font-size: 150%;
+    color: brown;
+}

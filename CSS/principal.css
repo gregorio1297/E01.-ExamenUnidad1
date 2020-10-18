@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.encabeza{
+    width: 100%;
+}
+
+.fenchat{
+    margin-left: 50%;
+    padding-left: 10%;
+    font-size: 150%;
+    color: brown;
+}
+
+.img1{
+    margin-top: 2%;
+    margin-left: .5%;
+    background-image: url(../IMGS/img4.jpg);
+    height: 300px;
+    width: 99%;
+    background-position-y: 50%;
+    background-position-x: 40%;
+}
+
+h1{
+    font-size: 300%
+}
+.img1>p{
+    font-size: 150%
+}
+
+.img3{
+    background-image: url(../IMGS/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+
+.img4{
+    background-image: url(../IMGS/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+
+
+.textoimg4{
+    font-size: 200%
+}
